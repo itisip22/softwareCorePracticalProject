@@ -10,6 +10,8 @@ https://trello.com/b/rHXlMonN/todo-list-app
 
 <img width="862" alt="Screenshot 2022-08-12 at 09 05 01" src="https://user-images.githubusercontent.com/66824231/184312047-47167e29-b634-4513-b1de-a40fbf22b914.png">
 
+## View my Presentation
+https://www.youtube.com/watch?v=wbindjhkXRg
 
 
 ## Built With
